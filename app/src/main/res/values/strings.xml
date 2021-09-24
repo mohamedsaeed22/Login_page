@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Login_page</string>
+    <string name="login_fragment_tv_forget">Forget password?</string>
+    <string name="login_fragment_btn_login">Login</string>
+    <string name="login_fragment_hint_password">Password</string>
+    <string name="login_fragment_hint_username">Username</string>
+    <string name="signup_frag_et_email_Hint">Email Address</string>
+    <string name="signup_frag_et_username_hint">Username</string>
+    <string name="signup_frag_et_password_hint">Password</string>
+    <string name="signup_frag_et_rePasswod_hint">Re-EnterPassword</string>
+    <string name="signup_frag_btn_signup">Signup</string>
+    <string name="tab_name_login">Login</string>
+    <string name="tab_name_signup">Signup</string>
+    <string name="main_tv_logoName">Welcome to TechX</string>
+</resources>

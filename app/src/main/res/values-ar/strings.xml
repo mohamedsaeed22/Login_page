@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_fragment_tv_forget">نسيت كلمةالسر؟</string>
+    <string name="login_fragment_btn_login">تسجيل الدخول</string>
+    <string name="login_fragment_hint_password">كلمة السر</string>
+    <string name="login_fragment_hint_username">اسم المستخدم</string>
+
+    <string name="signup_frag_et_email_Hint">عنوان البريد الالكترونى</string>
+    <string name="signup_frag_et_username_hint">الاسم</string>
+    <string name="signup_frag_et_password_hint">كلمة السر</string>
+    <string name="signup_frag_et_rePasswod_hint">اعاده كلمة السر</string>
+    <string name="signup_frag_btn_signup">انشاء حساب </string>
+    <string name="tab_name_login">تسجيل الدخول</string>
+    <string name="tab_name_signup">انشاء حساب</string>
+    <string name="main_tv_logoName">Welcome to TechX</string>
+</resources>
